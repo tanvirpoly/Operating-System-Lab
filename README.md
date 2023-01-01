@@ -8,20 +8,18 @@
 
 <p>Course Title: Operating System Lab</p>
 <p>Course Code: CSE-310</p>
-<p>Lab Report</p>
 
 <p>Include all C Language file</p>
 
 ---
 
- Lab Report: Program for First Come First Serve  (FCFS) Algorithm
+Lab Report: Program for First Come First Serve  (FCFS) Algorithm
 
 ---
 
 <img src="Lab_02.png"
      alt="lab"/>
 ---
-
 
 
 <h1 id="test-title">Lab Report in PDF</h1>
@@ -34,13 +32,22 @@
 
 ---
 
- Lab Report: 02
+Lab Report: Write a C program to multi-level queue scheduling algorithm Using FCFS
+
+---
+
+<img src="Lab_03.png"
+     alt="lab"/>
 ---
 
 
+<h1 id="test-title">Lab Report in PDF</h1>
 
-
-
+<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
+    <embed src="loremipsum.pdf#page=2">
+        <p>Click here for Lab Report: <a href="Lab_Report_03.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 
