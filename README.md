@@ -51,6 +51,28 @@ Lab Report: Write a C program to multi-level queue scheduling algorithm Using FC
 
 
 
+---
+
+Lab Report: C program for FCFS disk scheduling algorithm
+
+---
+
+<img src="Lab_04.png"
+     alt="lab"/>
+---
+
+
+<h1 id="test-title">Lab Report in PDF</h1>
+
+<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
+    <embed src="loremipsum.pdf#page=2">
+        <p>Click here for Lab Report: <a href="Lab_Report_04.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+
+
 <!-- all link is here -->
 
 
