@@ -72,6 +72,31 @@ Lab Report: C program for FCFS disk scheduling algorithm
 
 
 
+---
+
+Lab Report: Write a C program to simulate the following contiguous memory allocation techniques First-fit
+
+---
+
+<img src="Lab_05.png"
+     alt="lab"/>
+---
+
+
+<h1 id="test-title">Lab Report in PDF</h1>
+
+<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
+    <embed src="loremipsum.pdf#page=2">
+        <p>Click here for Lab Report: <a href="Lab_Report_05.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+
+
+
+
+
 
 <!-- all link is here -->
 
